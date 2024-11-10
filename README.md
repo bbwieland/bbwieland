@@ -1,5 +1,7 @@
 ## Hi, I'm Ben! 👋
 
+I'm a statistician & data scientist currently working as a quantitative analyst with the Philadelphia Phillies R&D team. Previously, my areas of focus in public research include Bayesian hierarchical modeling and generative modeling with sports data. I maintain the `cbbplotR` and `fRisbee` R packages; for issues with those packages, please open a GitHub issue in the associated repository or reach out directly to me via email benbowenwieland@gmail.com
+
 <!--
 **bbwieland/bbwieland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
